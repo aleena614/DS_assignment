@@ -1,0 +1,6 @@
+data/raw/
+.ipynb_checkpoints/
+.env
+.venv/
+__pycache__/
+tealmoth.log
