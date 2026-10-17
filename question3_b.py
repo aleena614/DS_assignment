@@ -40,3 +40,5 @@ dfOrbit = dfOrbit.sort_values(
 
 print("\nDataFrame sorted by marks:")
 print(dfOrbit)
+
+dfOrbit['Name'] = dfOrbit['Name'].str.strip()
